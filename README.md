@@ -94,4 +94,4 @@ La constante de tiempo teórica es: **τ = R × C**
 
 ## Autor
 
-Proyecto educativo para entender circuitos RC y medición de tiempos en microcontroladores.
+Marco Galindo.
