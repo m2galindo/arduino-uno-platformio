@@ -3,3 +3,12 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.vscode/Library
+.vscode/Makefile
+.vscode/objects
+.vscode/ProjectConfigurations.json
+.vscode/Source
+.vscode/Tasks.json
+.vscode/Testing
+.vscode/Thumbs.db
+.vscode/.vscode
