@@ -3,7 +3,8 @@
 Proyecto Arduino que mide el tiempo de carga y descarga de un capacitor en un circuito RC usando un Arduino Uno.
 ## Profesor
 Dr. Julio Abraham Mendoza Fierro
-## Autor
+=======
+# Autor
 Marco Galindo.
 =======
 ## Características
