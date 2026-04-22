@@ -1,7 +1,9 @@
 # RC Charge/Discharge Time Measurement
 
 Proyecto Arduino que mide el tiempo de carga y descarga de un capacitor en un circuito RC usando un Arduino Uno.
-
+## Profesor
+Dr. Julio Abraham Mendoza Fierro
+=======
 ## Características
 
 - **Medición de Carga (5τ):** Mide el tiempo para que el capacitor cargue hasta el ~99.3% (5 constantes de tiempo)
@@ -88,5 +90,3 @@ La constante de tiempo teórica es: **τ = R × C**
 ## Autor
 Marco Galindo.
 =======
-Marco Galindo 
->>>>>>> 10ba7c1 (add my results and ad .csv code)
