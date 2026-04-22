@@ -25,13 +25,6 @@ Proyecto Arduino que mide el tiempo de carga y descarga de un capacitor en un ci
 └── README.md                 # Este archivo
 ```
 
-## Hardware Requerido
-
-- Arduino Uno
-- Resistor: ~10 kΩ (ajusta según tu capacitor para τ deseado)
-- Capacitor: 10 µF ~ 100 µF (ajusta según τ esperado)
-- Cable USB para programar
-
 ## Conexiones
 
 ```
