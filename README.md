@@ -45,14 +45,14 @@ Pin 13 (Arduino) ----[R]----+---- Capacitor ----+---- GND
 ### Ambiente: Carga
 
 ```bash
-cd /Users/marcoalejandrogalindo/arduino-uno-platformio
+cd 
 pio run -e charge -t upload
 ```
 
 ### Ambiente: Descarga
 
 ```bash
-cd /Users/marcoalejandrogalindo/arduino-uno-platformio
+cd
 pio run -e discharge -t upload
 ```
 
@@ -71,7 +71,7 @@ O usa **Serial Plotter** de Arduino IDE para ver la curva exponencial en tiempo 
 Si tienes datos guardados, corre el script Python:
 
 ```bash
-cd /Users/marcoalejandrogalindo/arduino-uno-platformio
+cd 
 .venv/bin/python tools/plot_rc.py
 ```
 
