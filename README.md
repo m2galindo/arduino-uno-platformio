@@ -86,8 +86,6 @@ La constante de tiempo teórica es: **τ = R × C**
 - Para mayor precisión, ajusta el umbral ADC (`threshold = 1016` para 5τ)
 
 ## Autor
-<<<<<<< HEAD
-
 Marco Galindo.
 =======
 Marco Galindo 
