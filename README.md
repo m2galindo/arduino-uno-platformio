@@ -3,6 +3,8 @@
 Proyecto Arduino que mide el tiempo de carga y descarga de un capacitor en un circuito RC usando un Arduino Uno.
 ## Profesor
 Dr. Julio Abraham Mendoza Fierro
+## Autor
+Marco Galindo.
 =======
 ## Características
 
@@ -87,6 +89,4 @@ La constante de tiempo teórica es: **τ = R × C**
 - Usa `delay(10)` durante medición para estabilizar lecturas ADC
 - Para mayor precisión, ajusta el umbral ADC (`threshold = 1016` para 5τ)
 
-## Autor
-Marco Galindo.
-=======
+
