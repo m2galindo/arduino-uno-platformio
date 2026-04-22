@@ -4,7 +4,7 @@ Proyecto Arduino que mide el tiempo de carga y descarga de un capacitor en un ci
 ## Profesor
 Dr. Julio Abraham Mendoza Fierro
 =======
-# Autor
+## Autor
 Marco Galindo.
 =======
 ## Características
@@ -28,6 +28,8 @@ Marco Galindo.
 ├── platformio.ini            # Configuración PlatformIO (dos entornos)
 ├── requirements.txt          # Dependencias Python
 └── README.md                 # Este archivo
+├── Results/                  #Resultados que nosotros obtuvimos 
+
 ```
 
 ## Conexiones
