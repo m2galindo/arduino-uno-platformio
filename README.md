@@ -85,9 +85,6 @@ Genera `rc_charge_plot.png` con la gráfica.
 La constante de tiempo teórica es: **τ = R × C**
 
 ## Notas
-
-- Descarga manualmente el capacitor entre ciclos (conecta pin 13 o A0 a GND brevemente)
-- Usa `delay(10)` durante medición para estabilizar lecturas ADC
 - Para mayor precisión, ajusta el umbral ADC (`threshold = 1016` para 5τ)
 
 
